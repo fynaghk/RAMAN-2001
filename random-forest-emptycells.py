@@ -60,9 +60,3 @@ for target in target_columns:
 df.to_excel("Updated_Dataset.xlsx", index=False)
 
 print("Boş xanalar Random Forest modeli ilə dolduruldu. Yeni fayl: 'Updated_Dataset.xlsx'")
-
-
-
-
-
-
